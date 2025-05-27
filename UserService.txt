@@ -13,5 +13,5 @@ change 3
 
 change 4 in vs db
 
-AWS
+AWS and DevOps
 
